@@ -82,3 +82,18 @@ body{
      height: 30px;
      width: 30px;
 }
+.inner-right-bottom {
+    text-align: left;
+    width: 50%;
+    max-width: 520px;
+    position: absolute;
+    top: 700px;
+    right: 50px;
+    color: white;
+}
+.replay-button{
+   display:flex;
+   flex-direction: column;
+   border: white solid 2px;
+   width: 50px;
+}
